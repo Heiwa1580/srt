@@ -1,0 +1,13 @@
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/install/strip.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/install/local.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/rebuild_cache.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/srtsupport_virtual.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/edit_cache.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/srt_shared.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/srt-tunnel.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/srt-file-transmit.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/srt_virtual.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/srt-live-transmit.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/install.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/srt_static.dir
+/Users/allisonhebert/glimesh/srt-live-server/srt/CMakeFiles/list_install_components.dir
